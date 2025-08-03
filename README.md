@@ -33,8 +33,8 @@ While the official wiki is very complete, it can feel overwhelming. This app is 
 
 - 🔍 Fast, intuitive search  
 - 📱 Installable on any device (PWA)  
-- 🌿 Stardew Valley-inspired design  
-- 🌐 Localization support (`data-i18n-key`)  
+- 🌿 Stardew Valley‑inspired design  
+- 🌐 Localization support (`data‑i18n‑key`)  
 - 🧪 Beta version: minor bugs may occur  
 
 ---
@@ -79,14 +79,23 @@ While the official wiki is very complete, it can feel overwhelming. This app is 
 
 ## ⚠️ Disclaimer
 
-- 🇮🇹 Questo è un progetto **non ufficiale**. I contenuti provengono dalla wiki ufficiale di Stardew Valley ([stardewvalleywiki.com](https://stardewvalleywiki.com)), disponibile con licenza **CC BY-SA**. Tutti i diritti appartengono a **ConcernedApe**.  
-- 🇬🇧 This is an **unofficial fan project**. Content is sourced from the official Stardew Valley Wiki ([stardewvalleywiki.com](https://stardewvalleywiki.com)), licensed under **CC BY-SA**. All rights belong to **ConcernedApe**.
+- 🇮🇹 Questo è un progetto **non ufficiale**. I contenuti provengono dalla wiki ufficiale di Stardew Valley ([stardewvalleywiki.com](https://stardewvalleywiki.com)), disponibile con licenza **CC BY‑SA**. Tutti i diritti appartengono a **ConcernedApe**.  
+- 🇬🇧 This is an **unofficial fan project**. Content is sourced from the official Stardew Valley Wiki ([stardewvalleywiki.com](https://stardewvalleywiki.com)), licensed under **CC BY‑SA**. All rights belong to **ConcernedApe**.
 
 ---
 
 ## 📬 Contatti / Contact
 
 📩 Email: **svpoketwiki@gmail.com**
+
+---
+
+## 📱 Seguimi su TikTok / Follow me on TikTok
+
+> 🎥 🇮🇹 Vuoi scoprire curiosità, consigli e aggiornamenti su Stardew Valley? Seguimi su TikTok per video dedicati alla community, anteprime e funzionalità in arrivo!  
+> 🎥 🇬🇧 Want tips, tricks, and updates about Stardew Valley? Follow me on TikTok for dedicated videos, community previews, and upcoming features!
+
+🔗 **[TikTok → @sv.poketwiki](https://www.tiktok.com/@sv.poketwiki?_t=ZN-8yZwH2gowXW&_r=1)**
 
 ---
 
